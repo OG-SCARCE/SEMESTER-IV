@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=🎓%20Semester%20Resource%20Hub&fontSize=60&fontColor=ffffff"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Section+52;Notes+%7C+PPTs+%7C+PYQs;cybersecurity+and+digital+forensics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Section+50;Notes+%7C+PPTs+%7C+PYQs;cybersecurity+and+digital+forensics" />
 </p>
 
 ## 🚀 Repository Overview
