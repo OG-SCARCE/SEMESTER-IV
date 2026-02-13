@@ -86,6 +86,11 @@ Subject/
 ## 👨‍💻 Maintained By
 
 **Aman Patel**  
+
+**Shobhit Tiwari**
+
+**Aditya Jaiswal**
+
 Section 50 (Cybersecurity and Digital Forensics)
 Galgotias University
 
