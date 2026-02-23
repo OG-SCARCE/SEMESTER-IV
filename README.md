@@ -1,59 +1,65 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=🎓%20Semester%20Resource%20Hub&fontSize=60&fontColor=ffffff"/>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Section+50;Notes+%7C+PPTs+%7C+PYQs;cybersecurity+and+digital+forensics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Section+50;Notes+%7C+PPTs+%7C+PYQs;Cybersecurity+and+Digital+Forensics" />
 </p>
+
+---
 
 ## 🚀 Repository Overview
 
-This repository is designed to organize semester resources in a scalable and developer-friendly structure.
+This repository organizes semester resources in a clean, scalable, and engineering-focused structure.
 
-- 📚 Lecture Material Storage  
-- 🧠 PYQ Tracking  
-- 🔗 Resource Aggregation  
-- ⚡ Fast Navigation  
+- 📚 Centralized Lecture Materials  
+- 🧠 PYQ Management  
+- 🔗 Structured Resource Aggregation  
+- ⚡ Fast Navigation & Revision  
 
 ---
 
 ## 🧭 Subjects Information
 
-### 📘 Core Subjects
+### 📘 Core / Theory Subjects
 
-| Subject | Instructor | Credits |
-|--------|------------|--------|
-| Operating System | Dr. Anjali Kapoor | 4.0 |
-| Theory Of Computation | Mr. Arvind Kumar | 3.0 |
-| Fundamentals Of Cyber Security | Mr. Bijay Singh | 3.0 |
-| Python Programming | Dr. Sapna Sharma | 2.0 |
-| Design And Analysis Of Algorithm | Dr. Rasmeet Bali | 5.0 |
+| Subject | Subject Code | Instructor | Credits |
+|----------|--------------|------------|---------|
+| Operating System | RUC403B | Dr. Anjali Kapoor | 4.0 |
+| Data Communication And Networking | RUC406B | Dr. Arvind Panwar | 4.0 |
+| Theory Of Computation | RUC428T | Mr. Arvind Kumar | 3.0 |
+| Fundamentals Of Cyber Security | RUC426T | Mr. Bijay Singh | 3.0 |
+| Python Programming | RUC427B | Dr. Sapna Sharma | 2.0 |
+| Understanding Harmony And Ethical Human Conduct | RUC409T | Miss Tamanna Priya | 1.0 |
+| Design And Analysis Of Algorithm | RUC407B | Dr. Rasmeet Bali | 5.0 |
 
 ---
 
 ### 🧪 Practical / Labs
 
-| Subject | Instructor | Credits |
-|--------|------------|--------|
-| Operating System Lab | Dr. P. Sudhakar | 0.0 |
-| Python Lab | Mr. Nitesh Mishra | 0.0 |
-| DAA Lab | Dr. Rasmeet Bali | 0.0 |
-| Data Communication Lab | Dr. Sandeep Mishra | 0.0 |
-| Aptitude | Miss Shipra Verma | 2.0 |
-| Aptitude | Mr. Ashish Kumar | 2.0 |
-| Programming Skills With DS | Dr. Rasmeet Bali | 2.0 |
+| Subject | Subject Code | Instructor | Credits |
+|----------|--------------|------------|---------|
+| Operating System Lab | RUC403B | Dr. P. Sudhakar | 0.0 |
+| Data Communication Lab | RUC406B | Dr. Sandeep Mishra | 0.0 |
+| Python Lab | RUC427B | Mr. Nitesh Mishra | 0.0 |
+| DAA Lab | RUC407B | Dr. Rasmeet Bali | 0.0 |
+| Programming Skills With Data Structures | RUC427L | Dr. Rasmeet Bali | 2.0 |
+| Aptitude Proficiency | RUC425L | Miss Shipra Verma | 2.0 |
+| Aptitude Proficiency | RUC425L | Mr. Ashish Kumar | 2.0 |
 
 ---
 
 ## 📁 Folder Structure
 
+Each subject follows a uniform structure:
+
 ```bash
 Subject/
-├── LECTURE PPTS/     # Slides & lecture material
-├── PYQs/             # Previous year questions
-├── RESOURCES/        # Books, links, extras
-└── README.md         # Subject overview
+├── LECTURE PPTS/     
+├── PYQs/             
+├── RESOURCES/        
+└── README.md         
 ```
-
 ---
 
 ## ⚙️ Tech Stack
